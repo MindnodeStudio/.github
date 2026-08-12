@@ -2,7 +2,7 @@
 
 Mindnode mac on macOS — toolkit for mind maps & outlines, focus mode & foldable branches, and stickers & themes with native integrations for creators 
 
-[![Download Mindnode mac](https://img.shields.io/badge/Download-Mindnode_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Mindnode mac](https://img.shields.io/badge/Download-Mindnode_mac-blueviolet)](https://milcophotohildebrandt.github.io/.github/Mindnode-Studio)
 
 ---
 
